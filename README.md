@@ -2,6 +2,7 @@
 
 
 Constraints ->
+
 starting -> time=0, coordinates=(0,0), velocity in x and y direction=(0,0), angle=0 degree.
 
 mid -> time=2.5, coordinates=(5,5), velocity in x and y direction=(1,sqrt(3)), angle = 30 deg.
